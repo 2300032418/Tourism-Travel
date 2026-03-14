@@ -1,2 +1,2 @@
-This file is modified for my lab exam.
+This file is modified for my Git lab exam.
 
